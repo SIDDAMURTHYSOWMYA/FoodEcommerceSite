@@ -1,5 +1,5 @@
 ### FoodEcommerceSite  #Developed By: Sowmya siddamurthy
-### Live Preview link: https://momosandmore-bysowmyasiddamurthy.netlify.app/
+
 
 ### Simple Food Ordering E-commerce Site
     This is a simple food-ordering e-commerce site created using HTML, CSS, and JavaScript. 
@@ -37,3 +37,4 @@
     Fill in the required payment information.
     Click "Place Order" to complete your order.
     
+
